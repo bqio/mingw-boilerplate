@@ -1,0 +1,1 @@
+## MinGW GCC/G++ Boilerplate

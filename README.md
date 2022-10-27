@@ -2,7 +2,7 @@
 Simple boilerplate for C/C++ development.
 
 ### Requirements
-`pacman -S mingw-w64-x86_64-toolchain`
+`pacman -S mingw-w64-x86_64-toolchain make`
 
 ### Build
-`mingw32-make`
+`make`
